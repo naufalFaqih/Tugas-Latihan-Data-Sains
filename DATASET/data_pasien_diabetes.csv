@@ -1,0 +1,501 @@
+id_pasien,nama,usia,tekanan_darah,kadar_gula,jenis_kelamin,alamat,diagnosa
+P0001,Anto Sartika,62.0,123.0,127.0,laki-laki,"Jl. Melur No.71, Medan",Pra-diabetes
+P0002,Nina Wati,70.0,121.0,169.0,Laki,"Jalan Kenanga No.26, Medan",Diabetes Tipe 2
+P0003,Rahmat Aminah,38.0,100.0,161.0,Laki,"Jl. Melur No.47, Surabaya",Pra-diabetes
+P0004,Siti Saputra,25.0,100.0,166.0,L,"Jl. Anggrek No.52, Medan",Tidak Diabetes
+P0005,Andi Wati,49.0,110.0,131.0,perempuan,"Perum Griya Indah No.74, Medan",Diabetes Tipe 2
+P0006,Linda Prasetyo,40.0,122.0,137.0,laki-laki,"Jl. Anggrek No.3, Bandung",Tidak Diabetes
+P0007,Rudi Agustin,57.0,114.0,125.0,perempuan,"Jl. Melur No.15, Bandung",Tidak Diabetes
+P0008,Rahmat Wati,69.0,120.0,150.0,L,"Jl. Melur No.59, Jakarta",Diabetes Tipe 2
+P0009,Rudi Aminah,,108.0,149.0,L,"Jalan Mawar No.40, Bandung",Diabetes Tipe 2
+P0010,Siti Saputra,71.0,125.0,120.0,p,"Jl. Merdeka No.19, Yogyakarta",Pra-diabetes
+P0011,Siti Aminah,55.0,119.0,169.0,P,"Jl. Melati No.14, Surabaya",Diabetes Tipe 2
+P0012,Nina Sartika,64.0,300.0,198.0,p,"Jl. Melati No.64, Surabaya",Diabetes Tipe 2
+P0013,Andi Aminah,65.0,106.0,134.0,Laki,"Jl. Melur No.57, Jakarta",Diabetes Tipe 1
+P0014,Andi Prasetyo,47.0,122.0,118.0,p,"Jalan Mawar No.59, Bandung",Tidak Diabetes
+P0015,Linda Saputra,64.0,300.0,151.0,P,"Jalan Kenanga No.98, Surabaya",Pra-diabetes
+P0016,Putri Sartika,66.0,110.0,153.0,Laki,"Jl. Merdeka No.81, Yogyakarta",Tidak Diabetes
+P0017,Linda Sartika,32.0,110.0,125.0,L,"Jl. Merdeka No.64, Surabaya",Diabetes Tipe 1
+P0018,Putri Aminah,150.0,108.0,161.0,Laki,"Perum Griya Indah No.50, Bandung",Pra-diabetes
+P0019,Dewi Wati,63.0,111.0,121.0,laki-laki,"Jalan Kenanga No.67, Medan",Pra-diabetes
+P0020,Anto Wati,62.0,105.0,159.0,P,"Jl. Melati No.1, Jakarta",Pra-diabetes
+P0021,Rudi Hartono,33.0,108.0,161.0,laki-laki,"Jalan Mawar No.66, Jakarta",Diabetes Tipe 1
+P0022,Rudi Aminah,59.0,114.0,102.0,perempuan,"Jalan Mawar No.49, Jakarta",Tidak Diabetes
+P0023,Linda Agustin,38.0,125.0,150.0,L,"Perum Griya Indah No.95, Yogyakarta",Diabetes Tipe 2
+P0024,Rahmat Hartono,36.0,,153.0,perempuan,"Perum Griya Indah No.59, Medan",Diabetes Tipe 1
+P0025,Siti Prasetyo,150.0,114.0,1000.0,P,"Perum Griya Indah No.5, Yogyakarta",Tidak Diabetes
+P0026,Andi Wati,49.0,130.0,132.0,perempuan,"Jalan Mawar No.4, Yogyakarta",Pra-diabetes
+P0027,Anto Prasetyo,39.0,115.0,128.0,Laki,"Perum Griya Indah No.42, Bandung",Diabetes Tipe 1
+P0028,Andi Hartono,38.0,300.0,106.0,laki-laki,"Perum Griya Indah No.85, Yogyakarta",Diabetes Tipe 2
+P0029,Andi Hidayat,28.0,128.0,,P,"Jl. Anggrek No.59, Yogyakarta",Tidak Diabetes
+P0030,Anto Saputra,75.0,112.0,117.0,P,,Diabetes Tipe 2
+P0031,Linda Agustin,64.0,,175.0,Laki,"Perum Griya Indah No.91, Yogyakarta",Tidak Diabetes
+P0032,Linda Wati,48.0,116.0,141.0,laki-laki,"Jl. Melati No.57, Medan",Diabetes Tipe 1
+P0033,Budi Saputra,41.0,102.0,180.0,p,"Jl. Melur No.51, Yogyakarta",Diabetes Tipe 1
+P0034,Linda Hartono,71.0,128.0,179.0,laki-laki,"Perum Griya Indah No.44, Surabaya",Diabetes Tipe 2
+P0035,Budi Agustin,76.0,124.0,126.0,perempuan,"Jalan Mawar No.65, Jakarta",Diabetes Tipe 1
+P0036,Rahmat Hidayat,57.0,113.0,138.0,P,"Jl. Anggrek No.90, Yogyakarta",Pra-diabetes
+P0037,Rudi Sartika,49.0,,113.0,Laki,"Jalan Mawar No.78, Yogyakarta",Diabetes Tipe 2
+P0038,Anto Prasetyo,69.0,103.0,167.0,perempuan,"Jl. Melur No.7, Surabaya",Diabetes Tipe 1
+P0039,Siti Wati,68.0,109.0,104.0,perempuan,"Jl. Anggrek No.80, Medan",Pra-diabetes
+P0040,Rudi Hidayat,73.0,107.0,152.0,Laki,"Jl. Melur No.93, Bandung",Pra-diabetes
+P0041,Linda Hartono,29.0,124.0,145.0,laki-laki,"Jl. Melati No.53, Surabaya",Diabetes Tipe 2
+P0042,Linda Saputra,26.0,119.0,100.0,P,,Pra-diabetes
+P0043,Putri Aminah,77.0,120.0,119.0,L,"Jl. Anggrek No.76, Medan",Pra-diabetes
+P0044,Linda Sartika,150.0,104.0,151.0,Laki,"Jl. Anggrek No.17, Jakarta",Tidak Diabetes
+P0045,Rahmat Agustin,60.0,107.0,176.0,p,"Jalan Kenanga No.1, Bandung",Pra-diabetes
+P0046,Putri Wati,74.0,104.0,162.0,P,"Perum Griya Indah No.5, Jakarta",Tidak Diabetes
+P0047,Rahmat Agustin,40.0,137.0,179.0,p,"Jl. Anggrek No.57, Jakarta",Diabetes Tipe 2
+P0048,Linda Agustin,24.0,130.0,102.0,L,"Jl. Anggrek No.34, Yogyakarta",Diabetes Tipe 1
+P0049,Siti Wati,69.0,130.0,155.0,Laki,"Jl. Anggrek No.19, Yogyakarta",Diabetes Tipe 2
+P0050,Andi Prasetyo,77.0,110.0,149.0,p,"Perum Griya Indah No.42, Medan",Pra-diabetes
+P0051,Putri Prasetyo,61.0,119.0,141.0,laki-laki,"Jl. Melur No.27, Bandung",Tidak Diabetes
+P0052,Siti Sartika,53.0,116.0,174.0,P,,Pra-diabetes
+P0053,Nina Agustin,52.0,126.0,104.0,L,"Jl. Melur No.14, Jakarta",Diabetes Tipe 1
+P0054,Dewi Agustin,64.0,130.0,123.0,P,"Jalan Kenanga No.57, Yogyakarta",Tidak Diabetes
+P0055,Putri Saputra,33.0,110.0,107.0,Laki,"Jalan Mawar No.30, Bandung",Pra-diabetes
+P0056,Nina Prasetyo,59.0,126.0,153.0,perempuan,"Jl. Melati No.74, Medan",Tidak Diabetes
+P0057,Andi Aminah,28.0,129.0,158.0,p,"Jalan Kenanga No.75, Bandung",Diabetes Tipe 2
+P0058,Linda Hartono,42.0,107.0,147.0,P,"Jalan Kenanga No.82, Jakarta",Diabetes Tipe 1
+P0059,Linda Wati,79.0,118.0,170.0,p,"Jl. Merdeka No.22, Bandung",Pra-diabetes
+P0060,Putri Hartono,37.0,120.0,174.0,p,"Jalan Mawar No.73, Surabaya",Diabetes Tipe 2
+P0061,Rudi Agustin,52.0,127.0,154.0,perempuan,"Jl. Merdeka No.61, Jakarta",Tidak Diabetes
+P0062,Putri Saputra,56.0,129.0,170.0,Laki,,Diabetes Tipe 2
+P0063,Andi Wati,76.0,122.0,81.0,Laki,"Jl. Melur No.6, Jakarta",Diabetes Tipe 2
+P0064,Andi Aminah,73.0,120.0,129.0,P,"Perum Griya Indah No.67, Jakarta",Diabetes Tipe 1
+P0065,Anto Hidayat,65.0,117.0,170.0,P,"Jl. Melati No.77, Medan",Tidak Diabetes
+P0066,Putri Saputra,47.0,109.0,142.0,L,"Jl. Merdeka No.22, Surabaya",Pra-diabetes
+P0067,Andi Wati,53.0,126.0,150.0,P,"Jl. Merdeka No.27, Yogyakarta",Tidak Diabetes
+P0068,Budi Hartono,21.0,130.0,151.0,laki-laki,"Jl. Merdeka No.71, Yogyakarta",Pra-diabetes
+P0069,Rahmat Hartono,43.0,117.0,155.0,L,"Jl. Melati No.47, Bandung",Diabetes Tipe 1
+P0070,Putri Hidayat,22.0,101.0,101.0,perempuan,"Jl. Merdeka No.71, Medan",Diabetes Tipe 1
+P0071,Andi Aminah,28.0,101.0,121.0,Laki,"Jl. Melati No.90, Medan",Pra-diabetes
+P0072,Putri Wati,57.0,116.0,133.0,laki-laki,"Jalan Kenanga No.34, Jakarta",Diabetes Tipe 1
+P0073,Anto Wati,37.0,101.0,159.0,perempuan,"Jl. Melur No.59, Surabaya",Pra-diabetes
+P0074,Putri Hidayat,45.0,115.0,,P,"Jl. Anggrek No.72, Bandung",Diabetes Tipe 2
+P0075,Budi Prasetyo,37.0,120.0,162.0,P,"Jl. Anggrek No.88, Surabaya",Tidak Diabetes
+P0076,Nina Prasetyo,35.0,300.0,129.0,L,"Jl. Melati No.26, Bandung",Tidak Diabetes
+P0077,Siti Hartono,67.0,100.0,177.0,P,,Tidak Diabetes
+P0078,Siti Agustin,33.0,121.0,168.0,perempuan,"Jl. Merdeka No.67, Surabaya",Pra-diabetes
+P0079,Putri Hartono,72.0,108.0,,p,"Jl. Melur No.78, Bandung",Pra-diabetes
+P0080,Putri Agustin,74.0,100.0,127.0,P,"Jalan Mawar No.84, Medan",Diabetes Tipe 1
+P0081,Linda Aminah,30.0,122.0,145.0,laki-laki,,Diabetes Tipe 1
+P0082,Rudi Aminah,66.0,113.0,137.0,P,"Jl. Melati No.79, Surabaya",Pra-diabetes
+P0083,Linda Sartika,76.0,,179.0,P,"Jl. Anggrek No.55, Surabaya",Diabetes Tipe 1
+P0084,Putri Saputra,31.0,103.0,,perempuan,"Jl. Melur No.52, Jakarta",Tidak Diabetes
+P0085,Dewi Prasetyo,52.0,124.0,135.0,perempuan,"Jalan Kenanga No.25, Jakarta",Tidak Diabetes
+P0086,Siti Sartika,79.0,106.0,167.0,laki-laki,"Jalan Kenanga No.29, Medan",Tidak Diabetes
+P0087,Andi Prasetyo,37.0,123.0,84.0,L,"Jalan Kenanga No.70, Bandung",Diabetes Tipe 2
+P0088,Siti Agustin,74.0,114.0,126.0,perempuan,"Jalan Mawar No.100, Yogyakarta",Diabetes Tipe 1
+P0089,Rahmat Wati,79.0,103.0,110.0,laki-laki,"Perum Griya Indah No.5, Bandung",Tidak Diabetes
+P0090,Andi Agustin,28.0,105.0,101.0,p,"Jalan Mawar No.45, Medan",Diabetes Tipe 1
+P0091,Nina Wati,79.0,106.0,167.0,L,"Jl. Melur No.90, Bandung",Diabetes Tipe 1
+P0092,Andi Wati,,105.0,,L,"Jl. Anggrek No.40, Jakarta",Diabetes Tipe 1
+P0093,Budi Aminah,58.0,127.0,112.0,P,"Jl. Melur No.84, Surabaya",Diabetes Tipe 1
+P0094,Anto Aminah,55.0,100.0,119.0,P,"Jl. Melati No.60, Bandung",Diabetes Tipe 2
+P0095,Putri Hidayat,40.0,119.0,174.0,perempuan,"Jl. Anggrek No.73, Surabaya",Pra-diabetes
+P0096,Putri Sartika,70.0,112.0,166.0,perempuan,"Jalan Kenanga No.46, Medan",Diabetes Tipe 2
+P0097,Rudi Wati,56.0,125.0,114.0,P,"Jl. Melur No.46, Jakarta",Diabetes Tipe 1
+P0098,Andi Wati,45.0,110.0,138.0,P,"Perum Griya Indah No.51, Jakarta",Diabetes Tipe 1
+P0099,Budi Prasetyo,35.0,130.0,107.0,Laki,"Jl. Anggrek No.82, Medan",Diabetes Tipe 1
+P0100,Budi Aminah,80.0,125.0,134.0,p,,Diabetes Tipe 2
+P0101,Budi Aminah,45.0,126.0,138.0,Laki,"Jl. Anggrek No.55, Surabaya",Tidak Diabetes
+P0102,Anto Agustin,28.0,114.0,142.0,p,"Jalan Kenanga No.27, Surabaya",Diabetes Tipe 2
+P0103,Budi Hartono,74.0,110.0,110.0,P,"Perum Griya Indah No.8, Surabaya",Diabetes Tipe 1
+P0104,Budi Hidayat,51.0,111.0,165.0,p,"Jl. Melur No.28, Yogyakarta",Diabetes Tipe 2
+P0105,Andi Hartono,28.0,123.0,1000.0,Laki,"Jl. Merdeka No.25, Medan",Diabetes Tipe 1
+P0106,Rahmat Wati,50.0,114.0,157.0,L,"Jalan Kenanga No.10, Medan",Tidak Diabetes
+P0107,Rudi Hidayat,60.0,124.0,131.0,p,"Jalan Kenanga No.24, Jakarta",Pra-diabetes
+P0108,Rudi Saputra,23.0,119.0,163.0,P,"Jalan Mawar No.77, Yogyakarta",Tidak Diabetes
+P0109,Dewi Saputra,62.0,129.0,125.0,Laki,"Jl. Merdeka No.26, Medan",Pra-diabetes
+P0110,Putri Hartono,,300.0,,Laki,"Jl. Anggrek No.34, Yogyakarta",Diabetes Tipe 2
+P0111,Andi Agustin,21.0,107.0,109.0,P,"Jl. Merdeka No.9, Yogyakarta",Pra-diabetes
+P0112,Rahmat Prasetyo,80.0,112.0,121.0,p,"Jl. Melur No.94, Yogyakarta",Tidak Diabetes
+P0113,Putri Agustin,72.0,130.0,150.0,P,,Diabetes Tipe 1
+P0114,Anto Agustin,150.0,127.0,109.0,P,"Jalan Mawar No.28, Yogyakarta",Pra-diabetes
+P0115,Putri Hartono,60.0,112.0,144.0,P,"Jalan Kenanga No.87, Yogyakarta",Tidak Diabetes
+P0116,Budi Hartono,27.0,,106.0,L,"Jalan Mawar No.71, Jakarta",Diabetes Tipe 1
+P0117,Rudi Saputra,36.0,116.0,159.0,P,"Jl. Melati No.24, Jakarta",Diabetes Tipe 1
+P0118,Nina Saputra,35.0,109.0,147.0,perempuan,"Perum Griya Indah No.59, Bandung",Tidak Diabetes
+P0119,Putri Agustin,33.0,100.0,140.0,p,"Jl. Melur No.29, Jakarta",Tidak Diabetes
+P0120,Putri Sartika,53.0,104.0,156.0,P,"Jl. Melur No.94, Surabaya",Pra-diabetes
+P0121,Putri Prasetyo,54.0,108.0,179.0,P,"Jl. Melati No.20, Surabaya",Tidak Diabetes
+P0122,Andi Aminah,60.0,113.0,112.0,perempuan,"Jl. Melati No.69, Bandung",Diabetes Tipe 1
+P0123,Rahmat Sartika,73.0,129.0,118.0,L,,Diabetes Tipe 1
+P0124,Putri Hidayat,55.0,101.0,120.0,laki-laki,,Tidak Diabetes
+P0125,Andi Saputra,52.0,109.0,176.0,L,"Jl. Merdeka No.60, Medan",Diabetes Tipe 1
+P0126,Linda Agustin,27.0,130.0,169.0,p,"Jl. Merdeka No.68, Yogyakarta",Diabetes Tipe 1
+P0127,Rahmat Sartika,39.0,104.0,105.0,perempuan,"Jalan Kenanga No.39, Surabaya",Diabetes Tipe 1
+P0128,Dewi Sartika,29.0,110.0,174.0,P,,Diabetes Tipe 2
+P0129,Putri Agustin,40.0,103.0,159.0,laki-laki,"Jalan Mawar No.57, Surabaya",Tidak Diabetes
+P0130,Nina Hidayat,24.0,108.0,152.0,perempuan,"Jl. Melati No.41, Surabaya",Pra-diabetes
+P0131,Budi Saputra,54.0,120.0,1000.0,p,"Jalan Kenanga No.34, Surabaya",Diabetes Tipe 2
+P0132,Andi Wati,58.0,105.0,178.0,p,"Jl. Merdeka No.37, Surabaya",Pra-diabetes
+P0133,Budi Agustin,23.0,104.0,156.0,laki-laki,"Jalan Mawar No.47, Bandung",Diabetes Tipe 1
+P0134,Putri Agustin,56.0,119.0,171.0,perempuan,"Jl. Melur No.76, Surabaya",Pra-diabetes
+P0135,Dewi Saputra,77.0,112.0,176.0,L,"Jalan Mawar No.40, Yogyakarta",Tidak Diabetes
+P0136,Putri Aminah,74.0,102.0,126.0,P,"Jl. Anggrek No.40, Yogyakarta",Diabetes Tipe 2
+P0137,Budi Wati,65.0,111.0,131.0,P,,Diabetes Tipe 2
+P0138,Dewi Hartono,47.0,,170.0,P,"Jl. Anggrek No.8, Yogyakarta",Diabetes Tipe 1
+P0139,Putri Saputra,63.0,103.0,116.0,p,"Jalan Kenanga No.4, Jakarta",Diabetes Tipe 1
+P0140,Andi Prasetyo,36.0,122.0,106.0,L,"Jl. Melur No.19, Medan",Diabetes Tipe 2
+P0141,Budi Prasetyo,67.0,103.0,139.0,L,"Jalan Mawar No.77, Bandung",Pra-diabetes
+P0142,Linda Sartika,70.0,127.0,114.0,Laki,"Jl. Melati No.99, Medan",Diabetes Tipe 1
+P0143,Linda Hidayat,32.0,123.0,110.0,L,"Jl. Anggrek No.82, Medan",Tidak Diabetes
+P0144,Anto Hartono,44.0,120.0,108.0,laki-laki,"Jl. Merdeka No.98, Surabaya",Tidak Diabetes
+P0145,Putri Hartono,31.0,102.0,111.0,P,"Jl. Anggrek No.78, Surabaya",Diabetes Tipe 1
+P0146,Budi Aminah,150.0,300.0,1000.0,P,"Perum Griya Indah No.57, Yogyakarta",Diabetes Tipe 2
+P0147,Andi Sartika,75.0,,133.0,p,"Jalan Kenanga No.85, Jakarta",Diabetes Tipe 1
+P0148,Anto Hartono,77.0,130.0,163.0,L,"Jl. Anggrek No.26, Bandung",Pra-diabetes
+P0149,Andi Saputra,32.0,106.0,109.0,Laki,"Jl. Anggrek No.3, Surabaya",Diabetes Tipe 1
+P0150,Siti Wati,30.0,123.0,170.0,L,"Jalan Kenanga No.9, Bandung",Pra-diabetes
+P0151,Budi Aminah,63.0,119.0,155.0,L,"Jl. Merdeka No.68, Jakarta",Tidak Diabetes
+P0152,Budi Hidayat,46.0,124.0,102.0,laki-laki,"Jl. Melati No.34, Bandung",Pra-diabetes
+P0153,Anto Hidayat,150.0,118.0,105.0,P,"Perum Griya Indah No.73, Bandung",Diabetes Tipe 2
+P0154,Anto Hidayat,39.0,108.0,112.0,P,"Jalan Kenanga No.23, Medan",Diabetes Tipe 2
+P0155,Anto Wati,65.0,108.0,176.0,laki-laki,"Jl. Merdeka No.99, Medan",Diabetes Tipe 1
+P0156,Siti Saputra,39.0,101.0,146.0,P,"Jl. Merdeka No.98, Surabaya",Diabetes Tipe 2
+P0157,Rahmat Wati,29.0,106.0,105.0,P,"Perum Griya Indah No.51, Jakarta",Diabetes Tipe 2
+P0158,Rudi Agustin,40.0,103.0,171.0,L,"Jalan Mawar No.83, Jakarta",Diabetes Tipe 1
+P0159,Rahmat Agustin,,106.0,151.0,P,,Tidak Diabetes
+P0160,Budi Saputra,41.0,118.0,146.0,Laki,"Jalan Mawar No.93, Surabaya",Pra-diabetes
+P0161,Rahmat Prasetyo,30.0,125.0,125.0,L,"Jalan Mawar No.48, Yogyakarta",Pra-diabetes
+P0162,Budi Hidayat,35.0,106.0,122.0,Laki,"Perum Griya Indah No.54, Yogyakarta",Diabetes Tipe 1
+P0163,Budi Hartono,21.0,102.0,1000.0,P,"Jl. Melur No.1, Bandung",Diabetes Tipe 2
+P0164,Dewi Saputra,60.0,108.0,170.0,p,"Perum Griya Indah No.90, Medan",Diabetes Tipe 2
+P0165,Dewi Aminah,44.0,129.0,165.0,P,"Jl. Merdeka No.24, Yogyakarta",Tidak Diabetes
+P0166,Rahmat Sartika,73.0,300.0,163.0,Laki,"Perum Griya Indah No.76, Surabaya",Pra-diabetes
+P0167,Dewi Prasetyo,60.0,118.0,174.0,laki-laki,"Jl. Merdeka No.91, Surabaya",Diabetes Tipe 2
+P0168,Nina Sartika,50.0,129.0,103.0,Laki,"Jl. Anggrek No.84, Medan",Diabetes Tipe 2
+P0169,Rahmat Hidayat,41.0,114.0,169.0,P,"Perum Griya Indah No.90, Bandung",Diabetes Tipe 1
+P0170,Nina Hartono,57.0,121.0,139.0,laki-laki,,Tidak Diabetes
+P0171,Nina Saputra,,103.0,146.0,laki-laki,"Perum Griya Indah No.9, Yogyakarta",Pra-diabetes
+P0172,Rahmat Saputra,75.0,109.0,100.0,laki-laki,"Perum Griya Indah No.40, Yogyakarta",Tidak Diabetes
+P0173,Rudi Hidayat,47.0,126.0,147.0,L,"Jl. Anggrek No.48, Bandung",Pra-diabetes
+P0174,Nina Wati,21.0,106.0,167.0,L,,Pra-diabetes
+P0175,Putri Hartono,35.0,120.0,158.0,Laki,"Perum Griya Indah No.65, Yogyakarta",Diabetes Tipe 2
+P0176,Nina Wati,21.0,124.0,142.0,p,"Jalan Mawar No.46, Yogyakarta",Diabetes Tipe 1
+P0177,Andi Sartika,36.0,114.0,175.0,p,"Jalan Kenanga No.2, Yogyakarta",Diabetes Tipe 2
+P0178,Dewi Sartika,,124.0,156.0,L,"Jl. Anggrek No.45, Yogyakarta",Diabetes Tipe 2
+P0179,Anto Prasetyo,43.0,124.0,107.0,laki-laki,"Perum Griya Indah No.78, Surabaya",Diabetes Tipe 2
+P0180,Dewi Aminah,78.0,104.0,130.0,P,"Jl. Melati No.5, Surabaya",Diabetes Tipe 2
+P0181,Putri Wati,69.0,124.0,174.0,L,"Jl. Melur No.34, Medan",Diabetes Tipe 2
+P0182,Putri Hartono,40.0,130.0,101.0,P,,Diabetes Tipe 1
+P0183,Rahmat Prasetyo,50.0,116.0,105.0,P,"Perum Griya Indah No.50, Bandung",Pra-diabetes
+P0184,Andi Agustin,48.0,123.0,,laki-laki,"Perum Griya Indah No.84, Jakarta",Tidak Diabetes
+P0185,Siti Saputra,73.0,124.0,142.0,P,"Jl. Anggrek No.73, Bandung",Diabetes Tipe 2
+P0186,Dewi Hidayat,56.0,116.0,135.0,p,"Jalan Mawar No.31, Jakarta",Pra-diabetes
+P0187,Linda Hartono,47.0,106.0,173.0,P,"Perum Griya Indah No.23, Surabaya",Pra-diabetes
+P0188,Andi Agustin,39.0,121.0,1000.0,laki-laki,"Jalan Kenanga No.20, Bandung",Diabetes Tipe 1
+P0189,Nina Hidayat,75.0,130.0,154.0,P,"Jl. Melati No.67, Yogyakarta",Pra-diabetes
+P0190,Budi Wati,71.0,111.0,123.0,Laki,"Perum Griya Indah No.55, Jakarta",Pra-diabetes
+P0191,Rahmat Aminah,49.0,124.0,165.0,P,"Perum Griya Indah No.50, Jakarta",Pra-diabetes
+P0192,Putri Agustin,58.0,111.0,1000.0,P,,Pra-diabetes
+P0193,Siti Saputra,42.0,112.0,180.0,P,"Perum Griya Indah No.47, Surabaya",Diabetes Tipe 1
+P0194,Siti Wati,47.0,116.0,152.0,Laki,"Perum Griya Indah No.51, Jakarta",Diabetes Tipe 2
+P0195,Andi Wati,70.0,300.0,115.0,Laki,,Diabetes Tipe 1
+P0196,Linda Prasetyo,40.0,300.0,1000.0,perempuan,,Diabetes Tipe 2
+P0197,Siti Saputra,52.0,117.0,105.0,L,"Jl. Melur No.71, Surabaya",Tidak Diabetes
+P0198,Nina Prasetyo,150.0,123.0,112.0,L,"Jl. Melati No.37, Medan",Tidak Diabetes
+P0199,Rudi Hartono,74.0,109.0,170.0,P,,Tidak Diabetes
+P0200,Rahmat Prasetyo,75.0,103.0,130.0,L,"Jalan Kenanga No.36, Jakarta",Tidak Diabetes
+P0201,Nina Hartono,52.0,116.0,153.0,P,"Jl. Merdeka No.45, Medan",Diabetes Tipe 1
+P0202,Budi Wati,22.0,122.0,155.0,p,"Perum Griya Indah No.92, Surabaya",Pra-diabetes
+P0203,Anto Saputra,46.0,125.0,176.0,P,"Perum Griya Indah No.89, Bandung",Pra-diabetes
+P0204,Siti Aminah,74.0,108.0,108.0,perempuan,"Jalan Mawar No.71, Medan",Diabetes Tipe 2
+P0205,Linda Saputra,44.0,110.0,107.0,p,"Jl. Melati No.86, Surabaya",Pra-diabetes
+P0206,Andi Agustin,78.0,118.0,127.0,p,"Jl. Merdeka No.64, Medan",Diabetes Tipe 2
+P0207,Budi Aminah,29.0,129.0,139.0,Laki,"Jalan Mawar No.68, Bandung",Pra-diabetes
+P0208,Rahmat Wati,71.0,121.0,151.0,p,,Diabetes Tipe 1
+P0209,Dewi Agustin,54.0,122.0,164.0,p,"Perum Griya Indah No.36, Medan",Tidak Diabetes
+P0210,Putri Agustin,23.0,101.0,170.0,perempuan,"Jl. Merdeka No.83, Medan",Pra-diabetes
+P0211,Anto Wati,30.0,102.0,134.0,p,"Jl. Merdeka No.52, Surabaya",Diabetes Tipe 2
+P0212,Siti Wati,77.0,119.0,179.0,laki-laki,"Jl. Melur No.16, Surabaya",Diabetes Tipe 2
+P0213,Linda Aminah,23.0,123.0,128.0,L,"Perum Griya Indah No.32, Bandung",Diabetes Tipe 2
+P0214,Nina Agustin,42.0,126.0,174.0,P,"Jl. Anggrek No.38, Surabaya",Diabetes Tipe 1
+P0215,Dewi Agustin,64.0,130.0,146.0,P,"Jalan Kenanga No.45, Bandung",Diabetes Tipe 1
+P0216,Linda Aminah,55.0,128.0,116.0,p,,Diabetes Tipe 2
+P0217,Budi Sartika,40.0,129.0,104.0,Laki,"Perum Griya Indah No.4, Yogyakarta",Diabetes Tipe 2
+P0218,Nina Prasetyo,150.0,125.0,170.0,Laki,"Jl. Anggrek No.52, Medan",Tidak Diabetes
+P0219,Anto Agustin,42.0,119.0,157.0,perempuan,"Jalan Mawar No.29, Yogyakarta",Diabetes Tipe 2
+P0220,Anto Wati,37.0,129.0,109.0,L,"Jl. Merdeka No.74, Bandung",Tidak Diabetes
+P0221,Budi Agustin,24.0,110.0,167.0,P,"Jl. Anggrek No.49, Yogyakarta",Diabetes Tipe 2
+P0222,Linda Prasetyo,21.0,107.0,130.0,p,,Pra-diabetes
+P0223,Rudi Sartika,45.0,118.0,126.0,L,"Jl. Melati No.23, Bandung",Diabetes Tipe 2
+P0224,Rahmat Hartono,79.0,128.0,174.0,laki-laki,,Tidak Diabetes
+P0225,Siti Wati,72.0,129.0,124.0,Laki,,Tidak Diabetes
+P0226,Budi Saputra,25.0,112.0,126.0,P,"Jl. Anggrek No.96, Bandung",Diabetes Tipe 2
+P0227,Andi Wati,77.0,111.0,174.0,p,"Perum Griya Indah No.15, Medan",Tidak Diabetes
+P0228,Siti Hidayat,55.0,112.0,144.0,P,"Jl. Merdeka No.64, Medan",Pra-diabetes
+P0229,Rudi Prasetyo,59.0,124.0,144.0,perempuan,"Jl. Merdeka No.93, Yogyakarta",Tidak Diabetes
+P0230,Nina Hartono,69.0,104.0,,p,"Jalan Kenanga No.39, Yogyakarta",Diabetes Tipe 1
+P0231,Rahmat Saputra,,102.0,119.0,P,"Jl. Merdeka No.44, Medan",Diabetes Tipe 2
+P0232,Rahmat Aminah,36.0,127.0,109.0,L,"Jl. Merdeka No.80, Bandung",Pra-diabetes
+P0233,Anto Saputra,80.0,108.0,103.0,perempuan,"Jl. Merdeka No.87, Surabaya",Diabetes Tipe 1
+P0234,Anto Sartika,58.0,128.0,126.0,L,"Jalan Mawar No.62, Jakarta",Diabetes Tipe 2
+P0235,Anto Prasetyo,50.0,123.0,176.0,P,"Perum Griya Indah No.87, Bandung",Pra-diabetes
+P0236,Andi Saputra,77.0,109.0,149.0,p,"Jl. Melur No.85, Medan",Tidak Diabetes
+P0237,Nina Agustin,39.0,115.0,104.0,Laki,"Jl. Melati No.63, Medan",Diabetes Tipe 2
+P0238,Dewi Hidayat,69.0,134.0,120.0,P,"Jl. Anggrek No.62, Bandung",Pra-diabetes
+P0239,Nina Agustin,42.0,127.0,166.0,Laki,"Jl. Merdeka No.68, Bandung",Tidak Diabetes
+P0240,Dewi Aminah,61.0,126.0,104.0,perempuan,"Jl. Merdeka No.100, Surabaya",Diabetes Tipe 1
+P0241,Putri Prasetyo,150.0,118.0,1000.0,P,"Perum Griya Indah No.55, Yogyakarta",Tidak Diabetes
+P0242,Dewi Saputra,33.0,121.0,100.0,P,"Jl. Anggrek No.81, Jakarta",Diabetes Tipe 2
+P0243,Rahmat Hartono,29.0,103.0,131.0,L,"Jl. Melur No.61, Medan",Pra-diabetes
+P0244,Rahmat Sartika,77.0,107.0,167.0,perempuan,"Perum Griya Indah No.10, Bandung",Tidak Diabetes
+P0245,Andi Aminah,150.0,109.0,,p,"Jl. Anggrek No.82, Surabaya",Tidak Diabetes
+P0246,Nina Hartono,33.0,124.0,125.0,L,"Jl. Merdeka No.14, Bandung",Pra-diabetes
+P0247,Andi Hidayat,24.0,114.0,,P,"Jl. Melati No.64, Jakarta",Pra-diabetes
+P0248,Dewi Saputra,49.0,300.0,124.0,perempuan,"Jalan Mawar No.68, Yogyakarta",Pra-diabetes
+P0249,Budi Sartika,32.0,,146.0,perempuan,"Jl. Melur No.64, Jakarta",Diabetes Tipe 2
+P0250,Rahmat Hartono,23.0,117.0,1000.0,P,"Jl. Anggrek No.61, Yogyakarta",Pra-diabetes
+P0251,Siti Saputra,57.0,115.0,106.0,Laki,,Diabetes Tipe 2
+P0252,Putri Wati,21.0,125.0,115.0,Laki,"Jl. Melur No.13, Medan",Tidak Diabetes
+P0253,Putri Sartika,52.0,120.0,118.0,perempuan,"Jl. Melur No.16, Bandung",Diabetes Tipe 2
+P0254,Rahmat Saputra,150.0,127.0,172.0,L,"Jl. Merdeka No.55, Jakarta",Pra-diabetes
+P0255,Linda Aminah,51.0,124.0,142.0,L,"Jl. Anggrek No.52, Medan",Tidak Diabetes
+P0256,Siti Sartika,49.0,125.0,142.0,laki-laki,,Diabetes Tipe 1
+P0257,Rudi Hidayat,,128.0,127.0,P,"Jl. Anggrek No.41, Medan",Pra-diabetes
+P0258,Rudi Hartono,22.0,103.0,113.0,laki-laki,"Jl. Anggrek No.59, Surabaya",Diabetes Tipe 1
+P0259,Linda Agustin,47.0,125.0,108.0,laki-laki,"Jl. Melati No.86, Bandung",Tidak Diabetes
+P0260,Anto Prasetyo,61.0,120.0,129.0,P,"Jl. Melur No.60, Jakarta",Tidak Diabetes
+P0261,Andi Hartono,65.0,114.0,180.0,p,"Jalan Mawar No.64, Yogyakarta",Pra-diabetes
+P0262,Anto Sartika,53.0,125.0,166.0,laki-laki,"Jalan Mawar No.64, Yogyakarta",Tidak Diabetes
+P0263,Rahmat Hidayat,25.0,124.0,110.0,P,"Jl. Merdeka No.46, Bandung",Diabetes Tipe 1
+P0264,Anto Agustin,57.0,117.0,173.0,P,"Jl. Melati No.32, Jakarta",Pra-diabetes
+P0265,Siti Prasetyo,23.0,112.0,148.0,P,"Jl. Melur No.98, Surabaya",Pra-diabetes
+P0266,Budi Hidayat,40.0,118.0,135.0,L,,Diabetes Tipe 2
+P0267,Budi Saputra,59.0,,135.0,laki-laki,"Jl. Melur No.50, Bandung",Pra-diabetes
+P0268,Rudi Saputra,20.0,124.0,112.0,laki-laki,"Perum Griya Indah No.37, Bandung",Diabetes Tipe 2
+P0269,Siti Saputra,73.0,120.0,179.0,P,"Perum Griya Indah No.31, Bandung",Diabetes Tipe 2
+P0270,Budi Prasetyo,32.0,118.0,133.0,L,"Jl. Merdeka No.2, Yogyakarta",Diabetes Tipe 2
+P0271,Anto Aminah,30.0,127.0,144.0,P,"Jalan Mawar No.95, Surabaya",Tidak Diabetes
+P0272,Budi Aminah,48.0,105.0,1000.0,L,"Perum Griya Indah No.17, Yogyakarta",Pra-diabetes
+P0273,Anto Hartono,20.0,118.0,163.0,laki-laki,"Jl. Melati No.96, Jakarta",Diabetes Tipe 1
+P0274,Anto Agustin,49.0,112.0,144.0,laki-laki,"Jl. Anggrek No.1, Jakarta",Diabetes Tipe 1
+P0275,Dewi Hartono,56.0,114.0,,perempuan,,Pra-diabetes
+P0276,Nina Saputra,39.0,130.0,114.0,P,,Diabetes Tipe 1
+P0277,Putri Agustin,48.0,112.0,163.0,perempuan,"Jl. Anggrek No.35, Yogyakarta",Diabetes Tipe 2
+P0278,Putri Wati,37.0,130.0,155.0,p,"Jl. Melur No.18, Surabaya",Diabetes Tipe 2
+P0279,Rudi Wati,72.0,103.0,166.0,P,"Jl. Melati No.73, Medan",Pra-diabetes
+P0280,Anto Agustin,,101.0,,p,"Jl. Anggrek No.58, Yogyakarta",Diabetes Tipe 2
+P0281,Nina Agustin,78.0,118.0,131.0,P,"Perum Griya Indah No.28, Jakarta",Diabetes Tipe 2
+P0282,Linda Wati,44.0,107.0,113.0,L,,Diabetes Tipe 1
+P0283,Nina Prasetyo,49.0,103.0,134.0,p,"Jalan Mawar No.45, Medan",Tidak Diabetes
+P0284,Anto Sartika,76.0,112.0,108.0,L,"Jl. Melur No.92, Medan",Tidak Diabetes
+P0285,Andi Aminah,150.0,106.0,158.0,P,"Perum Griya Indah No.49, Surabaya",Diabetes Tipe 1
+P0286,Putri Saputra,69.0,122.0,142.0,Laki,"Perum Griya Indah No.97, Jakarta",Diabetes Tipe 2
+P0287,Rudi Saputra,31.0,127.0,179.0,Laki,"Jalan Mawar No.48, Surabaya",Diabetes Tipe 2
+P0288,Putri Saputra,28.0,117.0,143.0,p,,Tidak Diabetes
+P0289,Nina Wati,51.0,124.0,101.0,Laki,"Jalan Kenanga No.63, Surabaya",Tidak Diabetes
+P0290,Budi Aminah,80.0,107.0,1000.0,L,"Perum Griya Indah No.34, Surabaya",Tidak Diabetes
+P0291,Rahmat Sartika,43.0,104.0,174.0,laki-laki,"Jl. Anggrek No.57, Bandung",Diabetes Tipe 2
+P0292,Linda Saputra,73.0,101.0,178.0,P,"Jalan Kenanga No.42, Yogyakarta",Tidak Diabetes
+P0293,Dewi Hartono,49.0,118.0,112.0,P,"Jl. Melur No.27, Bandung",Pra-diabetes
+P0294,Anto Saputra,65.0,114.0,131.0,p,"Jalan Kenanga No.47, Medan",Diabetes Tipe 2
+P0295,Dewi Saputra,44.0,105.0,112.0,laki-laki,"Jalan Mawar No.32, Bandung",Diabetes Tipe 2
+P0296,Budi Hartono,46.0,126.0,137.0,p,"Jl. Melati No.62, Surabaya",Tidak Diabetes
+P0297,Siti Prasetyo,80.0,100.0,120.0,P,"Jalan Mawar No.13, Yogyakarta",Diabetes Tipe 2
+P0298,Andi Agustin,41.0,101.0,105.0,P,"Jl. Melur No.91, Jakarta",Diabetes Tipe 1
+P0299,Budi Agustin,,108.0,122.0,P,"Jalan Mawar No.86, Yogyakarta",Diabetes Tipe 1
+P0300,Linda Sartika,21.0,106.0,159.0,p,"Jalan Mawar No.74, Medan",Tidak Diabetes
+P0301,Putri Sartika,26.0,112.0,,L,"Perum Griya Indah No.82, Bandung",Diabetes Tipe 2
+P0302,Rudi Wati,57.0,105.0,107.0,p,"Jalan Mawar No.99, Yogyakarta",Diabetes Tipe 1
+P0303,Anto Hidayat,40.0,115.0,142.0,L,"Jl. Merdeka No.2, Jakarta",Tidak Diabetes
+P0304,Linda Agustin,45.0,115.0,175.0,laki-laki,"Jalan Mawar No.78, Yogyakarta",Pra-diabetes
+P0305,Dewi Hartono,78.0,122.0,156.0,laki-laki,"Perum Griya Indah No.86, Bandung",Diabetes Tipe 1
+P0306,Nina Hidayat,69.0,128.0,142.0,laki-laki,"Jalan Kenanga No.65, Jakarta",Diabetes Tipe 1
+P0307,Budi Prasetyo,71.0,100.0,124.0,p,"Jl. Melur No.20, Yogyakarta",Tidak Diabetes
+P0308,Rudi Prasetyo,150.0,110.0,153.0,P,"Jl. Merdeka No.30, Jakarta",Pra-diabetes
+P0309,Anto Hartono,67.0,113.0,114.0,P,"Jl. Anggrek No.3, Medan",Pra-diabetes
+P0310,Siti Wati,62.0,105.0,138.0,p,"Perum Griya Indah No.76, Yogyakarta",Tidak Diabetes
+P0311,Linda Aminah,29.0,101.0,175.0,P,"Jl. Melur No.91, Bandung",Tidak Diabetes
+P0312,Siti Prasetyo,80.0,110.0,138.0,p,"Jalan Mawar No.76, Surabaya",Diabetes Tipe 1
+P0313,Nina Aminah,51.0,125.0,121.0,p,"Jl. Anggrek No.96, Bandung",Diabetes Tipe 1
+P0314,Siti Agustin,42.0,129.0,149.0,laki-laki,"Jl. Merdeka No.72, Bandung",Tidak Diabetes
+P0315,Andi Aminah,20.0,125.0,144.0,perempuan,"Jalan Kenanga No.10, Surabaya",Diabetes Tipe 2
+P0316,Budi Sartika,59.0,130.0,125.0,P,"Perum Griya Indah No.17, Surabaya",Diabetes Tipe 2
+P0317,Rudi Aminah,23.0,115.0,170.0,Laki,"Jl. Anggrek No.75, Surabaya",Tidak Diabetes
+P0318,Linda Saputra,31.0,,127.0,perempuan,"Jalan Mawar No.88, Bandung",Pra-diabetes
+P0319,Putri Saputra,46.0,125.0,78.0,p,"Jl. Anggrek No.3, Yogyakarta",Diabetes Tipe 1
+P0320,Budi Wati,79.0,104.0,123.0,L,"Jl. Melur No.54, Bandung",Tidak Diabetes
+P0321,Dewi Aminah,29.0,300.0,139.0,Laki,"Jalan Mawar No.28, Bandung",Diabetes Tipe 1
+P0322,Andi Hartono,60.0,108.0,153.0,P,"Jalan Kenanga No.20, Bandung",Diabetes Tipe 2
+P0323,Rahmat Wati,54.0,116.0,150.0,p,"Perum Griya Indah No.39, Surabaya",Diabetes Tipe 2
+P0324,Rudi Wati,63.0,130.0,103.0,Laki,"Jl. Melati No.92, Medan",Diabetes Tipe 1
+P0325,Rahmat Prasetyo,79.0,125.0,172.0,L,"Jalan Kenanga No.18, Surabaya",Pra-diabetes
+P0326,Nina Wati,57.0,125.0,109.0,laki-laki,,Tidak Diabetes
+P0327,Linda Wati,24.0,130.0,127.0,perempuan,"Perum Griya Indah No.2, Bandung",Tidak Diabetes
+P0328,Putri Agustin,50.0,130.0,169.0,perempuan,"Jl. Merdeka No.16, Bandung",Tidak Diabetes
+P0329,Rudi Wati,25.0,125.0,106.0,Laki,"Jalan Mawar No.85, Bandung",Diabetes Tipe 2
+P0330,Anto Wati,54.0,116.0,132.0,P,"Jl. Melur No.86, Jakarta",Diabetes Tipe 1
+P0331,Rahmat Sartika,65.0,112.0,164.0,L,"Jalan Kenanga No.35, Medan",Diabetes Tipe 1
+P0332,Andi Hartono,63.0,117.0,140.0,perempuan,"Jl. Merdeka No.1, Yogyakarta",Diabetes Tipe 2
+P0333,Putri Prasetyo,23.0,120.0,119.0,Laki,"Jl. Anggrek No.56, Medan",Diabetes Tipe 2
+P0334,Budi Wati,89.0,103.0,,perempuan,"Jalan Mawar No.5, Jakarta",Tidak Diabetes
+P0335,Dewi Hidayat,52.0,124.0,132.0,p,"Jalan Kenanga No.19, Yogyakarta",Pra-diabetes
+P0336,Rahmat Wati,78.0,100.0,161.0,perempuan,"Jl. Melati No.45, Bandung",Tidak Diabetes
+P0337,Nina Aminah,33.0,114.0,140.0,P,"Jl. Melati No.17, Surabaya",Diabetes Tipe 2
+P0338,Siti Agustin,66.0,120.0,177.0,Laki,"Jl. Melati No.75, Yogyakarta",Diabetes Tipe 1
+P0339,Rudi Wati,73.0,119.0,124.0,P,"Jl. Melur No.10, Bandung",Tidak Diabetes
+P0340,Anto Aminah,61.0,122.0,108.0,L,"Jalan Mawar No.35, Surabaya",Diabetes Tipe 1
+P0341,Rahmat Sartika,37.0,300.0,134.0,p,"Jl. Merdeka No.88, Medan",Tidak Diabetes
+P0342,Dewi Agustin,58.0,117.0,153.0,P,"Jl. Merdeka No.74, Jakarta",Tidak Diabetes
+P0343,Andi Hartono,150.0,130.0,,P,"Jl. Merdeka No.21, Bandung",Tidak Diabetes
+P0344,Siti Agustin,34.0,112.0,158.0,L,"Jl. Anggrek No.38, Surabaya",Pra-diabetes
+P0345,Siti Saputra,25.0,103.0,153.0,P,"Jl. Merdeka No.29, Medan",Diabetes Tipe 2
+P0346,Dewi Saputra,51.0,,142.0,laki-laki,"Jalan Kenanga No.91, Bandung",Diabetes Tipe 1
+P0347,Linda Agustin,40.0,300.0,199.0,P,"Perum Griya Indah No.84, Bandung",Diabetes Tipe 1
+P0348,Dewi Saputra,43.0,118.0,170.0,L,"Perum Griya Indah No.92, Yogyakarta",Diabetes Tipe 1
+P0349,Rudi Aminah,39.0,105.0,168.0,L,"Perum Griya Indah No.94, Yogyakarta",Pra-diabetes
+P0350,Siti Sartika,21.0,123.0,125.0,L,"Perum Griya Indah No.59, Medan",Diabetes Tipe 1
+P0351,Andi Prasetyo,48.0,126.0,148.0,perempuan,"Perum Griya Indah No.44, Medan",Tidak Diabetes
+P0352,Andi Prasetyo,35.0,107.0,101.0,P,"Jl. Merdeka No.71, Surabaya",Pra-diabetes
+P0353,Putri Aminah,,100.0,161.0,Laki,"Jl. Melati No.58, Surabaya",Diabetes Tipe 1
+P0354,Rahmat Agustin,20.0,126.0,138.0,p,"Jalan Kenanga No.85, Yogyakarta",Diabetes Tipe 1
+P0355,Andi Hidayat,71.0,100.0,192.0,L,"Jalan Kenanga No.68, Bandung",Diabetes Tipe 1
+P0356,Andi Agustin,56.0,130.0,108.0,perempuan,"Jl. Merdeka No.11, Yogyakarta",Diabetes Tipe 1
+P0357,Nina Sartika,150.0,125.0,148.0,Laki,"Jl. Melati No.66, Medan",Pra-diabetes
+P0358,Dewi Prasetyo,25.0,107.0,128.0,P,"Jl. Anggrek No.74, Yogyakarta",Tidak Diabetes
+P0359,Budi Prasetyo,32.0,112.0,,P,"Jalan Kenanga No.85, Yogyakarta",Diabetes Tipe 2
+P0360,Nina Saputra,31.0,126.0,138.0,P,"Jalan Mawar No.50, Jakarta",Tidak Diabetes
+P0361,Siti Saputra,44.0,106.0,145.0,Laki,"Jl. Merdeka No.97, Medan",Tidak Diabetes
+P0362,Andi Prasetyo,47.0,102.0,117.0,perempuan,"Jl. Melur No.1, Jakarta",Pra-diabetes
+P0363,Anto Hartono,38.0,119.0,1000.0,Laki,"Jl. Anggrek No.25, Surabaya",Diabetes Tipe 1
+P0364,Rahmat Sartika,79.0,109.0,1000.0,p,"Jalan Mawar No.70, Medan",Pra-diabetes
+P0365,Nina Hidayat,26.0,108.0,137.0,P,"Jalan Mawar No.86, Jakarta",Diabetes Tipe 1
+P0366,Rahmat Hidayat,44.0,128.0,177.0,perempuan,"Jl. Anggrek No.95, Bandung",Diabetes Tipe 2
+P0367,Anto Hidayat,34.0,119.0,127.0,P,"Jl. Melati No.89, Bandung",Tidak Diabetes
+P0368,Rudi Hartono,68.0,106.0,106.0,L,"Jl. Anggrek No.17, Surabaya",Pra-diabetes
+P0369,Siti Wati,74.0,115.0,102.0,L,"Jalan Mawar No.25, Surabaya",Diabetes Tipe 2
+P0370,Nina Saputra,40.0,123.0,109.0,P,"Jl. Melur No.30, Medan",Diabetes Tipe 2
+P0371,Rahmat Hartono,27.0,122.0,186.0,Laki,"Jl. Melati No.90, Medan",Pra-diabetes
+P0372,Nina Sartika,38.0,108.0,135.0,L,"Jl. Melati No.66, Medan",Pra-diabetes
+P0373,Dewi Agustin,46.0,115.0,153.0,perempuan,"Jl. Melur No.96, Yogyakarta",Diabetes Tipe 1
+P0374,Anto Agustin,41.0,104.0,,L,"Jl. Melur No.28, Surabaya",Pra-diabetes
+P0375,Budi Sartika,30.0,125.0,175.0,P,"Jl. Merdeka No.2, Surabaya",Diabetes Tipe 2
+P0376,Siti Agustin,70.0,121.0,118.0,p,"Jalan Kenanga No.80, Bandung",Pra-diabetes
+P0377,Andi Hidayat,49.0,106.0,179.0,L,"Jalan Kenanga No.55, Surabaya",Diabetes Tipe 2
+P0378,Siti Wati,37.0,116.0,160.0,P,"Jalan Mawar No.100, Medan",Pra-diabetes
+P0379,Andi Hartono,60.0,100.0,112.0,P,"Jalan Mawar No.85, Surabaya",Pra-diabetes
+P0380,Siti Aminah,59.0,108.0,160.0,P,"Jl. Melati No.44, Jakarta",Diabetes Tipe 1
+P0381,Anto Aminah,77.0,114.0,1000.0,L,"Jl. Melati No.56, Surabaya",Pra-diabetes
+P0382,Putri Wati,35.0,113.0,100.0,P,"Jalan Kenanga No.75, Medan",Pra-diabetes
+P0383,Budi Hartono,60.0,123.0,100.0,L,,Tidak Diabetes
+P0384,Andi Aminah,,128.0,116.0,Laki,"Perum Griya Indah No.14, Bandung",Diabetes Tipe 2
+P0385,Andi Prasetyo,38.0,300.0,133.0,p,"Perum Griya Indah No.34, Surabaya",Tidak Diabetes
+P0386,Budi Wati,36.0,107.0,150.0,laki-laki,"Jalan Mawar No.19, Jakarta",Diabetes Tipe 2
+P0387,Rudi Wati,58.0,114.0,159.0,Laki,"Jalan Kenanga No.15, Surabaya",Diabetes Tipe 2
+P0388,Rudi Saputra,29.0,110.0,125.0,Laki,"Jalan Mawar No.33, Medan",Tidak Diabetes
+P0389,Andi Agustin,29.0,126.0,180.0,p,"Jl. Melur No.13, Yogyakarta",Tidak Diabetes
+P0390,Siti Agustin,48.0,115.0,126.0,P,"Jl. Melur No.100, Yogyakarta",Tidak Diabetes
+P0391,Putri Prasetyo,23.0,126.0,,p,"Jalan Kenanga No.10, Medan",Diabetes Tipe 1
+P0392,Rahmat Wati,67.0,103.0,143.0,L,"Jl. Merdeka No.34, Medan",Diabetes Tipe 1
+P0393,Budi Agustin,73.0,110.0,140.0,p,"Jl. Melur No.89, Jakarta",Diabetes Tipe 2
+P0394,Siti Sartika,44.0,112.0,152.0,P,"Jl. Melati No.78, Medan",Pra-diabetes
+P0395,Linda Hidayat,21.0,123.0,,laki-laki,"Jl. Merdeka No.33, Jakarta",Tidak Diabetes
+P0396,Rahmat Aminah,40.0,103.0,136.0,L,"Jalan Kenanga No.69, Medan",Pra-diabetes
+P0397,Nina Hidayat,41.0,106.0,113.0,L,"Perum Griya Indah No.56, Medan",Tidak Diabetes
+P0398,Nina Wati,53.0,,141.0,P,,Diabetes Tipe 2
+P0399,Anto Sartika,47.0,110.0,131.0,P,"Jl. Anggrek No.36, Jakarta",Diabetes Tipe 2
+P0400,Dewi Wati,55.0,,163.0,Laki,"Perum Griya Indah No.58, Surabaya",Diabetes Tipe 1
+P0401,Siti Prasetyo,31.0,109.0,161.0,P,"Jl. Merdeka No.8, Medan",Pra-diabetes
+P0402,Rahmat Sartika,77.0,124.0,157.0,P,"Jl. Melur No.56, Bandung",Tidak Diabetes
+P0403,Siti Sartika,53.0,113.0,163.0,laki-laki,"Jl. Melur No.91, Bandung",Tidak Diabetes
+P0404,Rahmat Agustin,56.0,126.0,132.0,perempuan,"Jl. Anggrek No.34, Jakarta",Diabetes Tipe 1
+P0405,Siti Aminah,56.0,128.0,148.0,perempuan,"Jalan Mawar No.46, Yogyakarta",Diabetes Tipe 2
+P0406,Anto Aminah,75.0,111.0,142.0,P,"Jl. Melur No.67, Medan",Diabetes Tipe 2
+P0407,Putri Saputra,21.0,102.0,147.0,P,"Jalan Kenanga No.69, Medan",Diabetes Tipe 1
+P0408,Rahmat Hartono,65.0,116.0,164.0,perempuan,"Jl. Melati No.74, Bandung",Diabetes Tipe 2
+P0409,Anto Sartika,,118.0,100.0,Laki,"Jl. Anggrek No.25, Bandung",Diabetes Tipe 1
+P0410,Dewi Saputra,38.0,129.0,1000.0,L,"Jl. Anggrek No.13, Bandung",Diabetes Tipe 2
+P0411,Andi Hidayat,46.0,102.0,126.0,P,"Jl. Melati No.13, Jakarta",Tidak Diabetes
+P0412,Nina Aminah,75.0,116.0,177.0,L,"Perum Griya Indah No.34, Medan",Diabetes Tipe 1
+P0413,Siti Sartika,32.0,,119.0,laki-laki,"Jl. Melur No.33, Medan",Pra-diabetes
+P0414,Anto Hidayat,45.0,123.0,123.0,L,,Tidak Diabetes
+P0415,Andi Sartika,58.0,110.0,148.0,p,"Jl. Merdeka No.48, Yogyakarta",Pra-diabetes
+P0416,Rudi Sartika,51.0,101.0,,L,"Jalan Mawar No.53, Bandung",Tidak Diabetes
+P0417,Rudi Agustin,36.0,124.0,150.0,L,"Jl. Anggrek No.89, Bandung",Pra-diabetes
+P0418,Andi Prasetyo,79.0,126.0,118.0,p,"Jl. Melur No.80, Bandung",Tidak Diabetes
+P0419,Andi Wati,69.0,113.0,112.0,perempuan,"Jalan Kenanga No.80, Medan",Pra-diabetes
+P0420,Budi Hartono,26.0,300.0,1000.0,P,"Jalan Kenanga No.74, Yogyakarta",Diabetes Tipe 2
+P0421,Budi Saputra,,126.0,152.0,L,"Perum Griya Indah No.56, Jakarta",Diabetes Tipe 2
+P0422,Dewi Hidayat,31.0,126.0,108.0,p,,Diabetes Tipe 1
+P0423,Andi Saputra,53.0,111.0,141.0,Laki,"Jl. Melati No.58, Bandung",Tidak Diabetes
+P0424,Anto Hartono,65.0,112.0,110.0,p,"Jl. Melur No.75, Jakarta",Pra-diabetes
+P0425,Rudi Aminah,150.0,107.0,175.0,P,"Jl. Melati No.74, Bandung",Pra-diabetes
+P0426,Anto Wati,54.0,114.0,139.0,p,"Jl. Melati No.45, Medan",Tidak Diabetes
+P0427,Anto Wati,79.0,106.0,169.0,Laki,"Perum Griya Indah No.58, Jakarta",Pra-diabetes
+P0428,Siti Sartika,32.0,115.0,120.0,Laki,"Perum Griya Indah No.89, Medan",Pra-diabetes
+P0429,Putri Hartono,41.0,111.0,132.0,p,"Jl. Merdeka No.86, Jakarta",Diabetes Tipe 1
+P0430,Andi Wati,33.0,117.0,104.0,L,"Jalan Mawar No.35, Medan",Pra-diabetes
+P0431,Linda Sartika,61.0,300.0,,Laki,"Jl. Melati No.52, Surabaya",Diabetes Tipe 1
+P0432,Budi Hartono,76.0,131.0,136.0,P,"Jalan Kenanga No.57, Jakarta",Diabetes Tipe 1
+P0433,Siti Saputra,57.0,114.0,134.0,L,"Jl. Melur No.36, Medan",Tidak Diabetes
+P0434,Putri Aminah,50.0,108.0,138.0,P,,Diabetes Tipe 1
+P0435,Siti Wati,150.0,123.0,167.0,laki-laki,"Jalan Mawar No.88, Bandung",Pra-diabetes
+P0436,Putri Prasetyo,55.0,125.0,177.0,L,"Jalan Kenanga No.33, Yogyakarta",Diabetes Tipe 1
+P0437,Budi Sartika,42.0,,167.0,Laki,,Pra-diabetes
+P0438,Budi Agustin,55.0,129.0,123.0,perempuan,"Jl. Anggrek No.43, Medan",Tidak Diabetes
+P0439,Putri Hartono,69.0,119.0,192.0,perempuan,"Jl. Melati No.68, Surabaya",Diabetes Tipe 1
+P0440,Putri Agustin,56.0,102.0,113.0,perempuan,"Jl. Anggrek No.32, Surabaya",Diabetes Tipe 1
+P0441,Andi Agustin,,108.0,126.0,P,,Diabetes Tipe 2
+P0442,Andi Sartika,150.0,127.0,113.0,Laki,"Jalan Kenanga No.44, Jakarta",Tidak Diabetes
+P0443,Putri Hidayat,23.0,121.0,144.0,L,"Jl. Melati No.49, Yogyakarta",Tidak Diabetes
+P0444,Anto Agustin,20.0,300.0,168.0,Laki,"Jl. Melur No.31, Bandung",Diabetes Tipe 1
+P0445,Rahmat Sartika,37.0,130.0,107.0,Laki,"Jl. Melur No.42, Jakarta",Diabetes Tipe 1
+P0446,Linda Sartika,54.0,107.0,129.0,P,"Jl. Merdeka No.62, Bandung",Diabetes Tipe 2
+P0447,Dewi Hidayat,79.0,119.0,,P,"Jl. Anggrek No.95, Yogyakarta",Pra-diabetes
+P0448,Budi Hidayat,60.0,120.0,179.0,Laki,"Jalan Mawar No.77, Yogyakarta",Diabetes Tipe 1
+P0449,Rahmat Aminah,50.0,117.0,166.0,perempuan,,Pra-diabetes
+P0450,Andi Prasetyo,28.0,116.0,117.0,laki-laki,"Perum Griya Indah No.47, Medan",Diabetes Tipe 1
+P0451,Dewi Hidayat,44.0,,166.0,perempuan,"Jl. Anggrek No.44, Medan",Tidak Diabetes
+P0452,Linda Saputra,50.0,112.0,104.0,perempuan,"Jalan Mawar No.91, Medan",Pra-diabetes
+P0453,Rahmat Hartono,74.0,129.0,113.0,p,"Jalan Kenanga No.19, Yogyakarta",Diabetes Tipe 2
+P0454,Rudi Hartono,29.0,,153.0,perempuan,"Jalan Kenanga No.93, Bandung",Tidak Diabetes
+P0455,Dewi Prasetyo,54.0,100.0,109.0,P,"Jl. Melur No.73, Bandung",Diabetes Tipe 1
+P0456,Budi Hartono,36.0,103.0,120.0,Laki,"Jl. Anggrek No.18, Yogyakarta",Diabetes Tipe 1
+P0457,Siti Agustin,67.0,110.0,115.0,laki-laki,"Jl. Melur No.67, Yogyakarta",Pra-diabetes
+P0458,Anto Wati,53.0,114.0,121.0,P,"Jl. Anggrek No.64, Surabaya",Tidak Diabetes
+P0459,Rahmat Aminah,47.0,109.0,147.0,P,"Jalan Kenanga No.17, Jakarta",Pra-diabetes
+P0460,Rudi Aminah,59.0,129.0,114.0,laki-laki,"Jl. Melur No.95, Yogyakarta",Pra-diabetes
+P0461,Rudi Hidayat,48.0,105.0,160.0,P,"Jl. Anggrek No.90, Bandung",Pra-diabetes
+P0462,Andi Agustin,79.0,121.0,174.0,perempuan,"Jl. Melur No.91, Surabaya",Diabetes Tipe 2
+P0463,Siti Saputra,69.0,109.0,130.0,perempuan,"Jl. Merdeka No.86, Surabaya",Pra-diabetes
+P0464,Rahmat Agustin,67.0,127.0,136.0,L,,Diabetes Tipe 1
+P0465,Linda Hartono,69.0,123.0,128.0,laki-laki,"Jl. Melati No.17, Jakarta",Diabetes Tipe 2
+P0466,Budi Aminah,42.0,121.0,178.0,L,"Jl. Melur No.94, Jakarta",Tidak Diabetes
+P0467,Rudi Hidayat,26.0,125.0,165.0,laki-laki,"Jl. Melur No.84, Jakarta",Tidak Diabetes
+P0468,Putri Prasetyo,47.0,129.0,135.0,L,"Jalan Mawar No.99, Jakarta",Diabetes Tipe 2
+P0469,Linda Prasetyo,75.0,124.0,111.0,p,"Perum Griya Indah No.49, Surabaya",Diabetes Tipe 1
+P0470,Linda Aminah,65.0,112.0,162.0,P,"Jl. Melati No.3, Medan",Tidak Diabetes
+P0471,Budi Hidayat,45.0,100.0,140.0,laki-laki,"Jalan Mawar No.19, Bandung",Diabetes Tipe 1
+P0472,Rudi Sartika,29.0,120.0,127.0,perempuan,"Perum Griya Indah No.86, Jakarta",Pra-diabetes
+P0473,Andi Saputra,31.0,119.0,180.0,P,"Jalan Mawar No.64, Jakarta",Diabetes Tipe 2
+P0474,Dewi Aminah,58.0,108.0,152.0,P,"Jl. Merdeka No.13, Medan",Tidak Diabetes
+P0475,Siti Aminah,48.0,107.0,105.0,laki-laki,"Jl. Melati No.67, Medan",Diabetes Tipe 2
+P0476,Rahmat Sartika,74.0,114.0,100.0,Laki,"Jl. Merdeka No.77, Bandung",Diabetes Tipe 1
+P0477,Rudi Sartika,54.0,300.0,153.0,P,"Perum Griya Indah No.98, Medan",Pra-diabetes
+P0478,Budi Aminah,69.0,110.0,101.0,laki-laki,"Jl. Melur No.100, Jakarta",Tidak Diabetes
+P0479,Andi Prasetyo,74.0,130.0,157.0,P,"Jl. Melati No.39, Jakarta",Pra-diabetes
+P0480,Budi Saputra,38.0,111.0,166.0,P,"Jl. Melati No.89, Yogyakarta",Tidak Diabetes
+P0481,Dewi Wati,48.0,118.0,1000.0,P,"Jl. Anggrek No.56, Bandung",Tidak Diabetes
+P0482,Siti Aminah,54.0,300.0,147.0,L,"Jalan Kenanga No.82, Jakarta",Pra-diabetes
+P0483,Dewi Agustin,71.0,101.0,107.0,Laki,"Jalan Kenanga No.87, Yogyakarta",Tidak Diabetes
+P0484,Anto Aminah,35.0,104.0,179.0,P,"Jl. Melati No.64, Jakarta",Tidak Diabetes
+P0485,Rahmat Saputra,51.0,100.0,82.0,laki-laki,,Tidak Diabetes
+P0486,Rahmat Prasetyo,59.0,107.0,166.0,P,"Jl. Anggrek No.100, Jakarta",Tidak Diabetes
+P0487,Linda Prasetyo,61.0,106.0,168.0,Laki,"Jalan Kenanga No.71, Surabaya",Diabetes Tipe 1
+P0488,Putri Saputra,27.0,103.0,150.0,perempuan,"Jl. Anggrek No.13, Bandung",Tidak Diabetes
+P0489,Putri Wati,74.0,119.0,130.0,Laki,"Jl. Merdeka No.66, Surabaya",Diabetes Tipe 2
+P0490,Siti Hartono,56.0,107.0,161.0,P,"Jalan Kenanga No.39, Yogyakarta",Tidak Diabetes
+P0491,Dewi Wati,37.0,122.0,136.0,L,,Diabetes Tipe 2
+P0492,Rudi Hartono,72.0,117.0,101.0,P,"Jalan Kenanga No.77, Bandung",Diabetes Tipe 2
+P0493,Nina Prasetyo,150.0,107.0,78.0,perempuan,"Jl. Melati No.50, Bandung",Tidak Diabetes
+P0494,Rudi Saputra,20.0,114.0,78.0,p,,Diabetes Tipe 2
+P0495,Andi Aminah,,110.0,109.0,p,"Perum Griya Indah No.79, Surabaya",Tidak Diabetes
+P0496,Dewi Prasetyo,21.0,109.0,171.0,laki-laki,"Jl. Merdeka No.65, Bandung",Pra-diabetes
+P0497,Anto Hidayat,58.0,101.0,148.0,laki-laki,"Jl. Melati No.40, Bandung",Diabetes Tipe 2
+P0498,Siti Agustin,75.0,105.0,173.0,Laki,"Jl. Melati No.44, Yogyakarta",Tidak Diabetes
+P0499,Putri Agustin,60.0,130.0,148.0,P,"Jl. Melur No.9, Jakarta",Pra-diabetes
+P0500,Anto Wati,150.0,129.0,115.0,P,"Jl. Melati No.50, Medan",Diabetes Tipe 2
